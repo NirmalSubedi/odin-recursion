@@ -1,4 +1,4 @@
-# Template
+# Recursion
 
 Webpack development environment template.
 
