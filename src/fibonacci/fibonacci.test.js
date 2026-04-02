@@ -20,7 +20,7 @@ describe("iterative fibonacci sequence", () => {
     expect(() => fibs(0.1)).toThrow(Error);
   });
 
-  it("Returns of sequence 1 number", () => {
+  it("Returns sequence of 1 number", () => {
     expect(fibs(1)).toEqual([0]);
   });
   it("Returns sequence of 2 number", () => {
